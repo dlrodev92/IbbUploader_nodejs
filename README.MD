@@ -1,4 +1,4 @@
-##Link: https://www.npmjs.com/package/ibbuploader
+## Link: https://www.npmjs.com/package/ibbuploader
 # IbbUploader 0.0.1
 
 IbbUploader is a Node.js library for uploading images to ImgBB via their API. This library simplifies the process of uploading images from local file paths, in-memory file-like objects (Buffers), or directly via URLs.

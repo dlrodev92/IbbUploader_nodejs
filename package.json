@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup"
   },
-  "repository"{
+  "repository":{
     "type": "git",
     "url": "git+https://github.com/dlrdev92/ibbuploader.git"
   },
